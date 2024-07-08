@@ -11,4 +11,4 @@ line3
 line4
 line5
 line6
-This line needs to be removed.
+>>>>>>> bc873906aee2a0004ce1485870d4ed018c21c840
